@@ -54,6 +54,10 @@
   width: 200px;
 }
 
+.search-button.right-icon i {
+  top:20px;
+  right: 100px;
+}
 .search-bar::placeholder {
   color: #f3e1dc;
 }
