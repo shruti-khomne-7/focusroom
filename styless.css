@@ -23,7 +23,7 @@
     height: 551px;
     position: absolute;
     top: 120px;
-    opacity: 0.70;
+    opacity: 0.5;
   }
   
 
@@ -75,3 +75,45 @@
  
  }
   
+
+ .experience-text {
+    width: 339px;
+    height: 47px;
+    position: absolute;
+    top: 34px;
+    left: 115px;
+    color: white;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.community-text {
+    width: 523px;
+    height: 87px;
+    position: absolute;
+    top: 350px;
+    left: 515px;
+    text-align: center;
+    color: #BDBFA9;
+    font-size: 23px;
+    font-family: Cormorant, serif;
+    font-weight: 100;
+    letter-spacing: 0px;
+
+}
+
+.connect-text {
+    width: 900px;
+    height: 200px;
+    position: absolute;
+    top: 390px;
+    left: 315px;
+    text-align: center;
+    color: #BDBFA9;
+    line-height: 0.1;
+    font-size: 73px;
+    font-family: Poiret One, cursive;
+    font-weight: 500;
+    font-size: 70px;
+    letter-spacing: 3px;
+      line-height: 1.18790}
